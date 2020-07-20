@@ -3,7 +3,7 @@
   - Spring Boot 
   - Mybatis framework
   - JWT Authentication.
-  - Swagger Api document assitance.
+  - Swagger Api document assistance.
 # Project configure 
   - For The database backup it already in resource/database-backup (for postgres SQl)
   - If you you are using another database server
